@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/SenchukDima/react_works/static/css/main.1a52c7e7.chunk.css",
+    "main.js": "/SenchukDima/react_works/static/js/main.2ccefe1a.chunk.js",
+    "main.js.map": "/SenchukDima/react_works/static/js/main.2ccefe1a.chunk.js.map",
+    "runtime-main.js": "/SenchukDima/react_works/static/js/runtime-main.577f09e2.js",
+    "runtime-main.js.map": "/SenchukDima/react_works/static/js/runtime-main.577f09e2.js.map",
+    "static/js/2.4abd9e54.chunk.js": "/SenchukDima/react_works/static/js/2.4abd9e54.chunk.js",
+    "static/js/2.4abd9e54.chunk.js.map": "/SenchukDima/react_works/static/js/2.4abd9e54.chunk.js.map",
+    "index.html": "/SenchukDima/react_works/index.html",
+    "static/css/main.1a52c7e7.chunk.css.map": "/SenchukDima/react_works/static/css/main.1a52c7e7.chunk.css.map",
+    "static/js/2.4abd9e54.chunk.js.LICENSE.txt": "/SenchukDima/react_works/static/js/2.4abd9e54.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.577f09e2.js",
+    "static/js/2.4abd9e54.chunk.js",
+    "static/css/main.1a52c7e7.chunk.css",
+    "static/js/main.2ccefe1a.chunk.js"
+  ]
+}
