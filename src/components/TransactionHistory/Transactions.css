@@ -1,0 +1,39 @@
+
+ 
+table {
+    margin: 20px auto 0 auto;
+    border-collapse: collapse;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    flex-direction: column;
+    border-radius: 50px;
+
+}
+
+tr:nth-child(2n+1) {
+    background-color: #fff;
+}
+
+td, th {
+    padding: 3px; /* Поля вокруг содержимого таблицы */
+    border-right: 1px solid white; /* Параметры рамки */
+    width: 290px;
+    height: 50px;
+   }
+
+   td:last-child, th:last-child {
+       border-right: none;
+   }
+
+   th {
+    background: #00bcd5; /* Цвет фона */
+    width: 290px;
+    height: 50px;
+    color: #fff;
+    text-transform: uppercase;
+   }
+
+   td {
+       color: #99a0a6;
+   }

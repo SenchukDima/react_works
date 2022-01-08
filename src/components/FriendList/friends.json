@@ -1,0 +1,32 @@
+[
+    {
+      "avatar": "http://www.muzoko.ru/wp-content/uploads/2020/07/Oliver_Tree_d002.jpg",
+      "name": "Mango",
+      "isOnline": true,
+      "id": 1812
+    },
+    {
+      "avatar": "http://www.muzoko.ru/wp-content/uploads/2020/07/Oliver_Tree_d002.jpg",
+      "name": "Kiwi",
+      "isOnline": false,
+      "id": 1137
+    },
+    {
+      "avatar": "http://www.muzoko.ru/wp-content/uploads/2020/07/Oliver_Tree_d002.jpg",
+      "name": "Ajax",
+      "isOnline": true,
+      "id": 1213
+    },
+    {
+      "avatar": "http://www.muzoko.ru/wp-content/uploads/2020/07/Oliver_Tree_d002.jpg",
+      "name": "Jay",
+      "isOnline": true,
+      "id": 1714
+    },
+    {
+      "avatar": "http://www.muzoko.ru/wp-content/uploads/2020/07/Oliver_Tree_d002.jpg",
+      "name": "Poly",
+      "isOnline": false,
+      "id": 1284
+    }
+  ]
